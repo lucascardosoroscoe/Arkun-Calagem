@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Arkun Calagem</string>
+    <array name="Culturas">
+        <item>MIlho</item>
+        <item>Soja</item>
+        <item>Cana de Açucar</item>
+    </array>
+</resources>
